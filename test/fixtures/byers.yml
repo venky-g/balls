@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  intege,: MyString
+  name: MyString
+  string,: MyString
+  add: MyString
+  string: MyString
+
+two:
+  id: MyString
+  intege,: MyString
+  name: MyString
+  string,: MyString
+  add: MyString
+  string: MyString

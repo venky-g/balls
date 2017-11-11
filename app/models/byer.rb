@@ -1,0 +1,2 @@
+class Byer < ApplicationRecord
+end
